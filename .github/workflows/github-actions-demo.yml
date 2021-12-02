@@ -15,3 +15,4 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+      - run: curl "ttps://discord.com/api/webhooks/915913706406281248/AHhPAFIfIugmNf4LtgBHwtX8bv4O1PVuNxZZWT4fiE59CkjEVQrBjNoFeeHM6kLT9nrB/github"
